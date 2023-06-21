@@ -4,7 +4,7 @@
  * main - prints all possible three digit combinations
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	int x, y, z;
 
